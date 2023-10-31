@@ -1,0 +1,24 @@
+.paper{
+  background-size: cover;
+  background-color: grey;
+  object-fit: cover;
+  /* position: relative; */
+  text-align: center;
+border-radius: 30px;
+margin-left: 33%;
+margin-right: 33%;
+
+}
+.pee{
+  margin: auto;
+  border-radius: 30px;
+  padding: 10px;
+  width: 99%;
+}
+.nd{
+  background-color: white;
+  width:96%;
+  margin: auto;
+  padding: 8px;
+  border-radius: 20px;
+}
